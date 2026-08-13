@@ -1,9 +1,9 @@
 # About-Me
-## Welcome!
+## Welcome to my GitHub Profile
 ### I'm Nathanael Cassidy
-#### Below is a little about who I am and what I am working on
+#### Here's a little about me and what I'm currently working on.
 
-Physics & Economics student at Washington & Jefferson College.
+I'm a Physics and Economics student at Washington & Jefferson College with interests in technical writing, research, and artificial intelligence.
 
 #### I'm interested in:
 
@@ -12,7 +12,7 @@ Physics & Economics student at Washington & Jefferson College.
 - Economics and public policy
 - Physics and applied mathematics
 - Linguistics and language learning
-- Featured Portfolio
+
 
 #### 📚 Writing Portfolio
 ##### A collection of my academic research, technical writing, and creative writing.
