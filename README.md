@@ -14,7 +14,7 @@ I'm a Physics and Economics student at Washington & Jefferson College with inter
 - Linguistics and language learning
 
 
-#### 📚 Writing Portfolio
+#### 📚 Featured Writing Portfolio
 ##### A collection of my academic research, technical writing, and creative writing.
 
-👉 [View Portfolio](https://github.com/NathanCassidy1219/Writing-Portfolio/blob/657c35cf10f0d85ffd8fcb8b94d3ef53560539b5/README.md)
+👉 [Explore My Portfolio](https://github.com/NathanCassidy1219/Writing-Portfolio/blob/657c35cf10f0d85ffd8fcb8b94d3ef53560539b5/README.md)
