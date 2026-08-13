@@ -1,5 +1,5 @@
 # About-Me
-## Welcome to my GitHub Profile
+## Welcome!
 ### I'm Nathanael Cassidy
 #### Here's a little about me and what I'm currently working on.
 
