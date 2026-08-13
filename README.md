@@ -3,7 +3,7 @@
 ### I'm Nathanael Cassidy
 #### Below is a little about who I am and what I am working on
 
-##### Physics & Economics student at Washington & Jefferson College.
+Physics & Economics student at Washington & Jefferson College.
 
 #### I'm interested in:
 
