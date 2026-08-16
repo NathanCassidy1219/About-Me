@@ -1,7 +1,7 @@
 # About-Me
 ## Welcome!
 ### I'm Nathanael Cassidy
-#### Here's a little about me and what I'm currently working on.
+### Here's a little about me and what I'm currently working on.
 
 I'm a Physics and Economics student at Washington & Jefferson College with interests in technical writing, research, and artificial intelligence.
 
